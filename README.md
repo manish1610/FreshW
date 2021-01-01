@@ -23,4 +23,4 @@ unexpected ways or breaches any limits.
 
 ### This project can be used as library/API by downloading the JAR file and adding it into the external libraries
 
-#### src/MainClass.java whcih has been shown as an example as to how to use this project as a Library to perform the C,R,D Operations
+#### FreshW/src/MainClass.java has been written as an example to make you understand how to use this project as a Library to perform the C,R,D Operations.
